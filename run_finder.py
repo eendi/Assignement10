@@ -15,4 +15,4 @@ with open("result.txt", "w", encoding="utf-8") as f:
         line = f"{name}: {smallest1}, {smallest2}\n"
         f.write(line)
  
-print("Results have been written to result.txt")
+print("Results have been written to result.txt, HAVE A GOOD DAY, SIR!")
